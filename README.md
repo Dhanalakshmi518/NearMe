@@ -86,13 +86,7 @@ hotel.html
 
 
 ## OUTPUT
-![alt text](<Screenshot 2025-09-22 135651.png>)
 
-![alt text](<Screenshot 2025-09-22 144114.png>)
-
-![alt text](<Screenshot 2025-09-22 144157.png>)
-
-![alt text](<Screenshot 2025-09-22 144215.png>)
 
 
 
